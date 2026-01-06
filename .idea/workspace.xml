@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214c69db-d62e-40ba-a451-73f0b4640141" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RECTANGLE_TUT3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RECTANGLE_TUT3/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RECTANGLE_TUT3/test_rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RECTANGLE_TUT3/test_rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/FireMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/FireMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/StoneMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/StoneMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUTES/OOP2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUTES/OOP2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUTES/OOP2/test_circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUTES/OOP2/test_circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +35,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NguyenMaiTrang105/PR2",
+    "accountId": "6eac5a7c-3123-4240-9bdc-8109d72ae197"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 2
