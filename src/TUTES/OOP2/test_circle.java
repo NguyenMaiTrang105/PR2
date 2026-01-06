@@ -1,4 +1,4 @@
-package TUTES.OOP2;
+package src.TUTES.OOP2;
 
 public class test_circle {
     public static void main(String[] args) {

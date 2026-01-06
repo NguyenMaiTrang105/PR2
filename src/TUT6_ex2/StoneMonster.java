@@ -1,4 +1,4 @@
-package TUT6_ex2;
+package src.TUT6_ex2;
 
 public class StoneMonster extends Monster {
     public StoneMonster (String name){

@@ -1,4 +1,4 @@
-package RECTANGLE_TUT3;
+package src.RECTANGLE_TUT3;
 
 public class test_rectangle {
     public static void main(String[] args) {
