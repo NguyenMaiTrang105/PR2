@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214c69db-d62e-40ba-a451-73f0b4640141" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT1/Act2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT1/Act4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT2/Ex5/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT2/ProductStatisticsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RECTANGLE_TUT3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RECTANGLE_TUT3/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RECTANGLE_TUT3/test_rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RECTANGLE_TUT3/test_rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/FireMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/FireMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/StoneMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/StoneMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT6_ex2/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUTES/OOP2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUTES/OOP2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUTES/OOP2/test_circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUTES/OOP2/test_circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT3/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT3/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex2/MovablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex2/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/FireMonster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/StoneMonster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/WaterMonster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,30 +40,63 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NguyenMaiTrang105/PR2",
-    "accountId": "6eac5a7c-3123-4240-9bdc-8109d72ae197"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NguyenMaiTrang105&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NguyenMaiTrang105/PR2&quot;,
+    &quot;accountId&quot;: &quot;6eac5a7c-3123-4240-9bdc-8109d72ae197&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="37sPKmhcXsXsD6rFuhpqT0BHkHr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mai Trang/IdeaProjects/PR2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ACt2b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Act2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Act4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Act5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductStatisticsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mai Trang/IdeaProjects/demo&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Act2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.TUT1.Act2" />
+      <module name="PR2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.TUT1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Act2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,11 +114,42 @@
       <option name="project" value="LOCAL" />
       <updated>1767689407662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1767689844598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767689844598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1767689888764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767689888764</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TUT1/Act2.java</url>
+          <line>21</line>
+          <properties class="src.TUT1.Act2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
