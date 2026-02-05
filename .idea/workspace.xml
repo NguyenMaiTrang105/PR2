@@ -4,26 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214c69db-d62e-40ba-a451-73f0b4640141" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/TUT1/Act2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TUT1/Act4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TUT2/Ex5/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TUT2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TUT2/ProductStatisticsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="214c69db-d62e-40ba-a451-73f0b4640141" name="Changes" comment="Tut 2 + Tut 3">
+      <change afterPath="$PROJECT_DIR$/src/ACT1_TUT4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACT1_TUT4/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACT1_TUT4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACT1_TUT4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT3/Circle_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT3/Employee_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TUT3/Rectangle_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/flyable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT3/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT3/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT5_ex2/MovablePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT5_ex2/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/FireMonster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/Monster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/StoneMonster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/WaterMonster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TUT6_ex2/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TUT3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex1/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex1/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex3/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex3/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex3/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex3/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT5_ex3/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex1/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex1/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TUT6_ex1/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +46,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;NguyenMaiTrang105&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;NguyenMaiTrang105&quot;
   }
 }</component>
@@ -62,21 +71,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ACt2b.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Act2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Act4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Act5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductStatisticsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mai Trang/IdeaProjects/demo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ACt2b.executor": "Run",
+    "Application.Act2.executor": "Run",
+    "Application.Act4.executor": "Run",
+    "Application.Act5.executor": "Run",
+    "Application.CalculatorTest.executor": "Run",
+    "Application.Circle_test.executor": "Run",
+    "Application.Employee_test.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ProductStatisticsDemo.executor": "Run",
+    "Application.Rectangle_test.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Mai Trang/IdeaProjects/demo"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Act2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.TUT1.Act2" />
@@ -130,12 +143,29 @@
       <option name="project" value="LOCAL" />
       <updated>1767689888764</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tut 2 + Tut 3">
+      <option name="closed" value="true" />
+      <created>1769609551829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769609551829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tut 2 + Tut 3">
+      <option name="closed" value="true" />
+      <created>1769609597469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769609597469</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Tut 2 + Tut 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tut 2 + Tut 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
